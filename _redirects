@@ -1,6 +1,1 @@
-[[redirects]]
-  from = "/*"
-  to = "http://project1899306.tilda.ws/"
-  status = 200
-  force = true
-  headers = {X-From = "Netlify"}
+/* http://project1899306.tilda.ws 200
